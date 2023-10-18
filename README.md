@@ -11,7 +11,7 @@
 To use the Minimal theme:
 
 1. Add the following to your site's `_config.yml`:
-title: Siti Indah Permatasari
+
     ```yml
     remote_theme: pages-themes/minimal@v0.2.0
     plugins:
@@ -31,8 +31,8 @@ title: Siti Indah Permatasari
 Minimal will respect the following variables, if set in your site's `_config.yml`:
 
 ```yml
-title: [The title of your site]
-description: [A short description of your site's purpose]
+title: Siti Indah Permatasari [The title of your site]
+description: Here are some of my portfolio. I am a fast learner and interested in developing my abilities further. [A short description of your site's purpose]
 ```
 
 Additionally, you may choose to set the following optional variables:
